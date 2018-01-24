@@ -34,7 +34,7 @@
     "react-dom": "^15.4.2"
   },
   "bugs": {
-    "url": "https://github.com/Hack-Champs/tutorhq/issues"
+    "url": "/issues"
   },
-  "homepage": "https://github.com/Hack-Champs/tutorhq#readme"
+  "homepage": "#readme"
 }
